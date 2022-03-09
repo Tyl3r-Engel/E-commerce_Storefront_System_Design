@@ -1,0 +1,25 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ETL.js",
+  "scripts": {
+    "express-run": "nodemon ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HR-DEN17-TEAM-CTHULHU/Reviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HR-DEN17-TEAM-CTHULHU/Reviews/issues"
+  },
+  "homepage": "https://github.com/HR-DEN17-TEAM-CTHULHU/Reviews#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "nodemon": "^2.0.15"
+  }
+}
