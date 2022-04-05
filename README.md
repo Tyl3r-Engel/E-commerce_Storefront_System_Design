@@ -3,30 +3,36 @@
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
-
 ---
 
 ## Description
-
+This is a reviews service for an E-Commerce microservice.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Node
+- Mongoose
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#e-commerce-storefront-system-design)
 
 ---
 ## How To Use
 
 #### Installation
-
+```bash
+  $ npm install
+```
 #### API Reference
+>Inside of the db folder in the index file the mongoIP my need to be changed.
+```javascript
+  const mongoIP = 'localhost'
+```
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#e-commerce-storefront-system-design)
 
 ---
 
 ## Author Info
+- Link to team repos. (https://github.com/HR-DEN17-TEAM-CTHULHU)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#e-commerce-storefront-system-design)
