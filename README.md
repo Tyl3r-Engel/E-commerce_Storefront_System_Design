@@ -22,7 +22,7 @@ This is a reviews service for an E-Commerce microservice.
 ```bash
   $ npm install
 ```
-#### API Reference
+#### Other Notes
 >Inside of the db folder in the index file the mongoIP my need to be changed.
 ```javascript
   const mongoIP = 'localhost'
