@@ -22,6 +22,10 @@ This is a reviews service for an E-Commerce microservice.
 ```bash
   $ npm install
 ```
+#### Usage
+>This server is ment to be used as a service in a microservice along with a mongoDB database.
+
+
 #### Other Notes
 >Inside of the db folder in the index file the mongoIP my need to be changed.
 ```javascript
